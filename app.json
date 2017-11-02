@@ -1,0 +1,15 @@
+{
+  "title" : "Barcode Scanner",
+  "projectTypeName" : "com.intel.xdk.projecttype.jsapp",
+  "sample" : true,
+  "template" : false,
+  "visible" : true,
+  "sortWeight" : "0.0",
+  "repoName" : "sample-barcode-scanner",
+  "tooltip" : "Scan a barcode using the Phonegap* Barcode Scanner plugin",
+  "description" : "This sample application demonstrates how to scan a barcode using the Phonegap* Barcode Scanner plugin to retrieve Universal Product Code (UPC) that can be used for product lookup in a UPC database.",
+  "articleUrl" : "https://github.com/gomobile/sample-barcode-scanner/blob/master/docs/README.md",
+  "keywords" : ["Cordova","Barcode"],
+  "targets" : [""],
+  "runtimes" : [""]
+}
